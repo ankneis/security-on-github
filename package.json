@@ -3,7 +3,7 @@
   "description": "Memory game with Octocats",
   "version": "0.0.1",
   "dependencies": {
-    "debug": "?",
+    "debug": "2.6.9",
     "ejs": "^2.5.6",
     "hoek": "^4.0.0",
     "npm": "^6.4.1",
